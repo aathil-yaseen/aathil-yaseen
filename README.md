@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aathil 👋
 
-<!--
-**aathil-yaseen/aathil-yaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc (Hons) Electronics and Computer Science**
+**University of Kelaniya**
 
-Here are some ideas to get you started:
+💻 **Python | Java** | C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in **Artificial Intelligence, Generative AI and Backend Development**
+
+🔬 **Research:**
+Efficient and Scalable Machine Unlearning for Deep Neural Networks
+
+🌱 **Currently learning:**
+FastAPI | SQL | LLMs | RAG | AI Automation
+
