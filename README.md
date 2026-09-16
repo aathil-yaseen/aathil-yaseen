@@ -6,7 +6,7 @@ BSc (Hons) Electronics and Computer Science undergraduate at the
 University of Kelaniya, passionate about building practical AI-powered
 applications and scalable software solutions.
 
-I enjoy working across **AI/ML, backend development, full-stack applications,
+I enjoy working across **Software Engineering, AI/ML,  full-stack applications,
 computer vision, NLP, and intelligent automation**.
 
 ---
