@@ -114,3 +114,73 @@ Next.js + React + TypeScript
             │
             ▼
        ML + RAG Pipeline
+
+📦 IntelliStock AI
+Full-Stack Inventory Intelligence & Decision Platform
+
+Role: AI & Full-Stack Developer
+
+An AI-driven inventory platform that uses historical data and machine learning to support demand forecasting and inventory decision-making.
+
+Tech Stack: Python FastAPI scikit-learn SQL
+
+Key Features
+📈 Machine learning-based demand forecasting
+📊 Interactive inventory dashboard
+⚠️ Stockout risk analysis
+📦 Inventory monitoring
+🔄 Automated reorder recommendations
+🔗 REST API-based workflow integration
+🤖 AI-assisted inventory decision support
+
+Efficient and Scalable Machine Unlearning for DNNs
+
+Role: AI/ML Developer & Researcher
+
+A research project focused on efficiently removing targeted training data from deep neural networks without complete model retraining.
+
+Tech Stack: Python PyTorch ResNet18 FAISS
+
+Key Features
+🧠 Machine unlearning for deep neural networks
+🔎 Embedding-based similarity retrieval
+⚡ Targeted knowledge removal
+📊 Model accuracy evaluation
+⏱️ Retraining time benchmarking
+📈 Comparison with conventional full retraining
+
+Areas of Interest
+
+Artificial Intelligence • Machine Learning • AI Engineering • Natural Language Processing • Computer Vision • RAG & Semantic Search • AI-powered Applications • Backend Development • Software Engineering • Full-Stack Development • Intelligent Automation • AI-assisted Software Development • AI Workflows
+
+Currently Learning
+Advanced AI Engineering
+Retrieval-Augmented Generation
+AI Application Architecture
+Backend System Design
+Scalable REST APIs
+Cloud Deployment
+Docker & Containerization
+CI/CD
+Production-ready AI Systems
+
+Career Interests
+
+AI/ML Engineer • AI Engineer • Machine Learning Engineer • Software Engineer • Backend Developer • Full-Stack Developer • Computer Vision Engineer • AI Application Developer
+
+Soft Skills
+
+Problem-Solving • Analytical Thinking • Team Collaboration • Communication • Adaptability • Time Management • Leadership • Independent Learning
+
+Languages
+English — Fluent
+Tamil — Native
+Sinhala — Conversational
+
+Connect With Me
+
+📧 Email: itz.aathiloff@gmail.com
+
+💼 LinkedIn: linkedin.com/in/aathil-bin-yaseen-myma001
+
+💻 GitHub: github.com/aathil-yaseen
