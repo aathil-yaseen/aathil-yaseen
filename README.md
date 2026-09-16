@@ -115,7 +115,7 @@ Next.js + React + TypeScript
             ▼
        ML + RAG Pipeline
 
-## 📦 IntelliStock AI
+### 📦 IntelliStock AI
 
 ### Full-Stack Inventory Intelligence & Decision Platform
 
