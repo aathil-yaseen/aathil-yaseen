@@ -28,7 +28,7 @@ computer vision, NLP, and intelligent automation**.
 
 ### Programming Languages
 
-Python • TypeScript • JavaScript • Java • C
+Python • TypeScript • JavaScript • Java • C# 
 
 ### AI & Machine Learning
 
